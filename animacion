@@ -1,0 +1,29 @@
+Animaciones
+Las animaciones son primordiales para darle vida y comunicar de mejor manera. Cada elemento puede tener distintos tipos de animación que ayudaran a comunicar la importancia o relevancia de la acción que genera el usuario
+<aside> 🐭 Recomendación - Los 12 principios de animación de Disney
+</aside>
+12 principios de la animación ilustrados por películas Disney·Pixar - Disney Blogs
+
+lo siguiente es tomado de notion
+
+# Animation
+
+En esta sección explicaremos las animaciones permitidas dentro de nuestro sistema y en qué situaciones las utilizaremos.
+
+<aside>
+💡 Referencia de animaciones: 
+https://daneden.github.io/animate.css/
+https://animista.net/
+[Disney’s motion principles in designing interface animations](https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43)
+
+</aside>
+
+## Fade in
+
+Cuando un elemento independiente de la pantalla tiene la necesidad de entrar o desaparecer
+
+## Fade out
+
+Cuando un elemento tiene la necesidad de salir de la visión del usuario.
+
+*Configuraciones de estas animaciones son*: left, right, up, d
