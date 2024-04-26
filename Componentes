@@ -1,0 +1,72 @@
+# Components
+
+<aside>
+💡 Los componentes forman parte de un todo.
+👟→🕴🏻  , 🕯→🎂 , ⚙→🚗
+
+</aside>
+
+Los componentes deben tener: 
+
+- Nombre
+- Descripción/Solución
+- Behavior (PC/Mobile)
+- Estados (prendido/apagado, "modo navideño")
+
+---
+
+### Átomos
+
+- Labels
+- Buttons
+- Inputs
+- Text
+- Modal
+
+### Moléculas
+
+- Input Search
+- Alerts
+
+### Organismo
+
+[Top Navbar](https://www.notion.so/Top-Navbar-c889ed07424f428b96b895b8cc0b88ad?pvs=21)
+
+- Alert System
+- Footer
+
+### Páginas
+
+- Main Page
+
+### Template
+
+- Login
+- Course
+- Profile Page
+
+### Patrones
+
+- Login Flow
+- Conversion flow
+
+# Top Navbar
+
+Esta es la barra de navegación superior que le ayuda al usuario para navegar por toda la plataforma.
+
+# Nombre
+
+`top_navbar`
+
+# Descripción
+
+Aquí es donde el usuario tiene a la mano las herramientas necesarias para navegar por la plataforma y le permite hacer acciones como
+
+- Login
+- Logout
+
+*`Imagen del navbar`*
+
+# States
+
+`Normal - Focus - Hover`
