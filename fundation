@@ -1,0 +1,35 @@
+# Fundations
+
+Los fundations son elementos que vamos a crear para después configurarlos en pantallas, funcionalidad y *cosas incréibles.*
+
+[Tipografía:
+
+Definir los tamaños en especifico y familia tipográfica en cada caso de uso.
+
+[Colores]
+
+Paleta de colores
+
+[Layout - Spaces:]
+
+Layout determina como van a estar distribuido nuestros elementos en la pagina. (Ej: Sidebar a la derecha, Tirulos, descripción de la pagina, etc.) y además debemos tener en cuenta el espaciado entre los elementos.
+
+[Animation]
+
+Animaciones permitidas en nuestro sitio web
+
+[Iconografía]
+
+Definir las reglas de la iconografía en nuestro sistema nos ayudara a mantener la consistencia. Tener en cuenta el tipo de iconos (Outline, relleno, emojis, etc.)
+
+### Style
+
+Nuestra marca puede presentarse con estilos juguetones o realistas, lo importante es definir tan claro como sea posible qué intentamos transmitir
+
+[Voz y tono]
+
+Qué tipo de personalidad tiene nuestro producto, cómo habla, qué características y qué NO debería decir.
+
+[Hitos]
+
+Son elementos que representan a una marca. 
