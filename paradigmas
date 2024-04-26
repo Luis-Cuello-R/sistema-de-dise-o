@@ -1,0 +1,17 @@
+Paradigmas
+Diseño Procedural
+El sistema tiene la capacidad de generarse así mismos por parte de unos objetos bases
+El diseño atómico
+El sistema funciona de manera procedural, pero tiene vida ya que dichos elementos bases cambian
+según el objeto base
+Que es un componente
+El componente es el medio de interacción entre el usuario y el sistema
+Partes
+•	Nombre
+La forma en la que el componente se define
+•	Descripción / solución
+Que objetivo tiene y que solución aporta
+•	Behavior
+Que comportamiento tiene con el usuario, puede ser positivo o negativo
+•	States
+Que estados tiene, encendido, apagado, cargando...
