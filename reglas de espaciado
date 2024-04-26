@@ -1,0 +1,41 @@
+Reglas de espaciado
+El espacio entre elementos dan forma, ritmo y jerarquía de contenido a la plataforma. Definirlo ayuda a la consistencia de las interfaces
+Tipos
+•	Paddign
+El espacio dentro de un elemento y el contenido
+•	Border
+Como su nombre lo dice, es el espacio justo en el borde del elemento.
+•	Margin
+Es el espacio fuera del elemento, ayuda a separar el elemento de otros
+
+
+
+tomado de notion
+# Layout - Spaces:
+
+Explicaremos cómo funcionan los espacios de nuestra aplicación y cómo es que funcionan las unidades.
+
+## Unidades de espaciado
+
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d53b1fbf-f0ba-46df-9763-93795591e8e2/1.png
+
+Una unidad es igual a `10px` 
+
+Por lo tanto 2 unidades serían igual a `20px`
+
+Es libre la configuración de estas unidades mientras se usen en totales y medias (1,2,2.5,3,3.5) no parcialidades (~~.2,.4,.6~~).
+
+## Magin
+
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8c89135-34a1-494e-9cb7-50c326ff45b9/2.png
+
+## Padding
+
+Los componentes de nuestro sistema tienen un margen de una unidades de espaciado (`10px`), este margen afecta a todos los ítems a su al rededor.
+
+Por lo tanto pueden tener un espacio de 2 unidades (`20px`)
+
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/953a5c03-20cc-4144-aba5-2af0cb927ede/3.png
+
+Tenemos una unidad (`10px`) de cada lado cuando los componentes contengan contenido.
+
